@@ -16,8 +16,6 @@ Make a keybind by adding the following to your `User/Default (OSX).sublime-keyma
 
 	{ "keys": ["super+shift+a"], "command": "goto_drupalapi" }
 
-(I don't like plugins automatically adding keybinds, okay.)
-
 ## Installing
 
 First, you need to have `git` installed and in your `$PATH`. Afterwards you may need to restart Sublime Text 2 before the plugin will work.
@@ -25,12 +23,12 @@ First, you need to have `git` installed and in your `$PATH`. Afterwards you may 
 ### OSX
 
     $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
-    $ git clone git://github.com/BrianGilbert/Sublime-Text-2-Goto-Drupal-API.git GotoDocumentation
+    $ git clone git://github.com/revagomes/Sublime-Text-2-Goto-DrupalContrib-API.git GotoDocumentation
 
 ### Linux (Ubuntu like distros)
 
     $ cd ~/.config/sublime-text-2/Packages/
-    $ git clone git://github.com/BrianGilbert/Sublime-Text-2-Goto-Drupal-API.git GotoDocumentation
+    $ git clone git://github.com/revagomes/Sublime-Text-2-Goto-DrupalContrib-API.git GotoDocumentation
 
 ### Windows 7:
 
