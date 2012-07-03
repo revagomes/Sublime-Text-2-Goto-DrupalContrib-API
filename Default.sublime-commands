@@ -1,6 +1,6 @@
 [
     {
-        "caption": "Goto Drupal API"
+        "caption": "Goto DrupalContrib API"
         ,"command": "goto_drupalapi"
     }
 ]
