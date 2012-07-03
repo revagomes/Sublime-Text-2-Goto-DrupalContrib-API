@@ -18,4 +18,4 @@ class GotoDrupalapiCommand(sublime_plugin.TextCommand):
             if not word.empty():
                 word = self.view.word(region)
                 keyword = self.view.substr(word)
-                open_url("http://api.drupal.org/api/search/7/%s" % keyword)
+                open_url("http://drupalcontrib.org/api/drupal/7/%s" % keyword)
